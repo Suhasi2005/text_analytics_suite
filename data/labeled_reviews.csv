@@ -1,0 +1,21 @@
+review_text,sentiment
+"The product quality is excellent and I am very satisfied with my purchase.",positive
+"Delivery was quick and the packaging was neat.",positive
+"I love this item, it works perfectly and is worth the price.",positive
+"Customer support was very helpful and resolved my issue quickly.",positive
+"The user interface is clean and easy to use.",positive
+"The product is okay, nothing special but it does the job.",neutral
+"It's an average experience, not too good and not too bad.",neutral
+"The quality is decent for the price, but I expected a bit more.",neutral
+"The app sometimes works and sometimes crashes, it's inconsistent.",neutral
+"Packaging was fine but the delivery took longer than expected.",neutral
+"I am very disappointed, the product stopped working after two days.",negative
+"Terrible experience, I will not buy from this seller again.",negative
+"The item arrived damaged and the quality is very poor.",negative
+"Customer service was unresponsive and not helpful at all.",negative
+"The app keeps crashing and is full of bugs.",negative
+"The sound quality is amazing and the battery life is great.",positive
+"Setup was easy and the instructions were clear.",positive
+"The product feels cheap and looks different from the pictures.",negative
+"Shipping was delayed and the tracking information was not updated.",negative
+"It's fine for basic use but not suitable for professional work.",neutral

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "raw_reviews_path": "data/raw_reviews.csv",
+    "labeled_reviews_path": "data/labeled_reviews.csv"
+  },
+  "models": {
+    "sentiment_model_path": "models/sentiment_model.joblib"
+  },
+  "reports": {
+    "reports_dir": "reports"
+  },
+  "analysis": {
+    "top_n_keywords": 10,
+    "n_topics": 3
+  }
+}
